@@ -40,7 +40,7 @@ inquirer
     },
     {
       type: 'list',
-      message: 'What are the installation instructions for your project?',
+      message: 'What is the license for your project?',
       name: 'license',
       choices: ['Apache License 2.0', 'GNU General Public License v2.0', 'MIT License', 'BSD 2-Clause License', 'BSD 3-Clause License', 'Boost Software License 1.0', 'Mozilla Public License 2.0', 'The Unlicense'],
     },
