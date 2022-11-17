@@ -14,9 +14,9 @@
 
 [Contributing](https://github.com/mfrabott/README-generator/mjf#Contributing)
 
-[Tests](https://github.com/mfrabott/README-generator/mjf#Tests)
+[Tests](https://github.com/mfrabott/README-generator-mjf#Tests)
 
-[Questions](https://github.com/mfrabott/README-generator/mjf#Questions)
+[Questions](https://github.com/mfrabott/README-generator-mjf#Questions)
 
 ## Project Description
 lkjh
