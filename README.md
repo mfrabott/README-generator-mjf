@@ -4,13 +4,13 @@
 
 ## Table of Contents
 
-[Project Description](https://github.com/mfrabott/README-generator/mjf#Project-Description)
+[Project Description](https://github.com/mfrabott/README-generator-mjf#Project-Description)
 
-[Installation Instructions](https://github.com/mfrabott/README-generator/mjf#Installation-Insturctions)
+[Installation Instructions](https://github.com/mfrabott/README-generator-mjf#Installation-Insturctions)
 
-[Usage Information](https://github.com/mfrabott/README-generator/mjf#Usage-Information)
+[Usage Information](https://github.com/mfrabott/README-generator-mjf#Usage-Information)
 
-[License](https://github.com/mfrabott/README-generator/mjf#License)
+[License](https://github.com/mfrabott/README-generator-mjf#License)
 
 [Contributing](https://github.com/mfrabott/README-generator/mjf#Contributing)
 
