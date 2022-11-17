@@ -20,7 +20,7 @@ inquirer
     },
     {
       type: 'input',
-      message: 'What are the installation instructions for your project?',
+      message: 'What is the intended use for your project?',
       name: 'usageInfo',
     },
     {
@@ -50,7 +50,7 @@ inquirer
 
     const projTitle = response.title
     const projDesc = response.description
-    const projinstall = response.installation
+    const projInstall = response.installation
     const projUsage = response.usageInfo
     const projLicense = response.license
     const projUsername = response.username
@@ -65,13 +65,13 @@ inquirer
 
 ## Table of Contents
 
-Project Description
-Installation Instructions
-Usage Information
-License
-Contributing
-Tests 
-Questions
+[Project Description](https://github.com/mfrabott/README-generator/mjf#Project-Description)
+[Installation Instructions](https://github.com/mfrabott/README-generator/mjf#Installation-Insturctions)
+[Usage Information](https://github.com/mfrabott/README-generator/mjf#Usage-Information)
+[License](https://github.com/mfrabott/README-generator/mjf#License)
+[Contributing](https://github.com/mfrabott/README-generator/mjf#Contributing)
+[Tests](https://github.com/mfrabott/README-generator/mjf#Tests)
+[Questions](https://github.com/mfrabott/README-generator/mjf#Questions)
 
 ## Project Description
 ${projDesc}
@@ -97,7 +97,7 @@ ${projEmail}
 
 `
 
-  fs.appendFile('README.md', dataToSave, (err) => {
+  fs.appendFile('README.md', printREADME, (err) => {
         err ? console.error(err) : console.log('Commit logged!')
     })
   });
