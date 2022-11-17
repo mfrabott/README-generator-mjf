@@ -108,11 +108,17 @@ ${badge}
 ## Table of Contents
 
 [Project Description](${projRepo}#Project-Description)
+
 [Installation Instructions](${projRepo}#Installation)
+
 [Usage Information](${projRepo}#Usage)
+
 [License](${projRepo}#License)
+
 [Contributing](${projRepo}#Contributing)
+
 [Tests](${projRepo}#Tests)
+
 [Questions](${projRepo}#Questions)
 
 ## Project Description
@@ -138,7 +144,7 @@ ${projTest}
 
 ## Questions
 
-Created by: ${projUsername}
+Find more of my work at: https://github.com/${projUsername}
 
 For any questions, please contact me at: ${projEmail}
 
