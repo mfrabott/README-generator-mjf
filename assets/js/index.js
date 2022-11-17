@@ -108,17 +108,11 @@ ${badge}
 ## Table of Contents
 
 [Project Description](${projRepo}#Project-Description)
-
 [Installation Instructions](${projRepo}#Installation)
-
 [Usage Information](${projRepo}#Usage)
-
 [License](${projRepo}#License)
-
 [Contributing](${projRepo}#Contributing)
-
 [Tests](${projRepo}#Tests)
-
 [Questions](${projRepo}#Questions)
 
 ## Project Description
