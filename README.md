@@ -2,17 +2,24 @@
   
 # README Generator
 
-[![License: GPL v2](https://img.shields.io/badge/License-GPL_v2-blue.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Table of Contents
 
 [Project Description](https://github.com/mfrabott/README-generator-mjf#Project-Description)
+
 [Installation Instructions](https://github.com/mfrabott/README-generator-mjf#Installation)
+
 [Usage Information](https://github.com/mfrabott/README-generator-mjf#Usage)
+
 [License](https://github.com/mfrabott/README-generator-mjf#License)
+
 [Contributing](https://github.com/mfrabott/README-generator-mjf#Contributing)
+
 [Tests](https://github.com/mfrabott/README-generator-mjf#Tests)
+
 [Questions](https://github.com/mfrabott/README-generator-mjf#Questions)
+
 [Screen Capture](https://github.com/mfrabott/README-generator-mjf#Screen-Capture)
 
 ## Project Description
