@@ -107,28 +107,32 @@ ${badge}
 
 ## Table of Contents
 
-[Project Description](${projRepo}#Project-Description)
+[Project Description](#Project-Description)
 
-[Installation Instructions](${projRepo}#Installation)
+[Installation Instructions](#Installation)
 
-[Usage Information](${projRepo}#Usage)
+[Usage Information](#Usage)
 
-[License](${projRepo}#License)
+[License](#License)
 
-[Contributing](${projRepo}#Contributing)
+[Contributing](#Contributing)
 
-[Tests](${projRepo}#Tests)
+[Tests](#Tests)
 
-[Questions](${projRepo}#Questions)
+[Questions](#Questions)
 
 ## Project Description
+
 ${projDesc}
 
-
 ## Installation
+
 ${projInstall}
 
+Repository at: ${projRepo}
+
 ## Usage
+
 ${projUsage}
 
 ## License
@@ -140,6 +144,7 @@ This project is covered under the ${projLicense}.
 ${projContribute}
 
 ## Tests 
+
 ${projTest}
 
 ## Questions
